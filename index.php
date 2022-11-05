@@ -12,7 +12,7 @@
 <body>
     <div class="contenedor-titulo">
         <div>
-            <h1>MAPA CON COLORES</h1>
+            <h1>MAPA CON COLORES CON PHP</h1>
         </div>
     </div>
     <div class="estiloMapa d-flex align-items-center justify-content-center">
